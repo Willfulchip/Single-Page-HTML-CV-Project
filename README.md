@@ -1,5 +1,3 @@
-# Single-Page-HTML-CV-Project
+https://roadmap.sh/projects/single-page-cv
 
 The first project since i learned HTML
-
-https://roadmap.sh/projects/single-page-cv
